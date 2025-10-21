@@ -1,3 +1,10 @@
+
+## 📊 Game Preview
+
+![Typing Speed Game Screenshot](screenshot.png)\
+*(Screenshot of Typing Game)*
+
+------------------------------------------------------------------------
 # 🕹️ Typing Speed Game
 
 A lightweight, interactive **Typing Speed Game** built using **HTML,
@@ -59,13 +66,6 @@ appealing browser-based game --- no libraries or frameworks required!
 3.  Open `index.html` in your browser.
 
 That's it --- you're ready to play!
-
-------------------------------------------------------------------------
-
-## 📊 Game Preview
-
-![Typing Speed Game Screenshot](screenshot.png)\
-*(Add a screenshot of your game here)*
 
 ------------------------------------------------------------------------
 
